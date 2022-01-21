@@ -1,1 +1,1 @@
-# A-School-website..
+# A-responsive modern School-website with modern features..
